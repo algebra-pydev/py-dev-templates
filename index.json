@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Modul 2 - base",
+        "description": "Modul2 -  Osnove programiranja u programskom jeziku Python",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m2-base ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m2-base/main/README.md"
+    },
+    {
+        "name": "Module 2 – exam",
+        "description": "Parcijalni ispit za modul 2 - Osnove programiranja u programskom jeziku Python",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m2-parcijalni-ispit ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m2-parcijalni-ispit/main/README.md"
+    },
+    {
+        "name": "Module 2 – exercises",
+        "description": "Vježbe i zadaci modula 2 - Osnove programiranja u programskom jeziku Python",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m2-vjezbe-zadaci ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m2-vjezbe-zadaci/main/README.md"
+    },       
+    {
+        "name": "Modul 3 - base",
+        "description": "Modul 3 - Napredni koncepti programiranja u programskom jeziku Python",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m3-base ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m3-base/main/README.md"
+    },
+    {
+        "name": "Module 3 – exam",
+        "description": "Parcijalni ispit za modul 3 - Napredni koncepti programiranja u programskom jeziku Python",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m3-parcijalni-ispit ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m3-parcijalni-ispit/main/README.md"
+    },
+    {
+        "name": "Module 3 – exercises",
+        "description": "Vježbe i zadaci modula 3 - Napredni koncepti programiranja u programskom jeziku Python",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m3-vjezbe-zadaci ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m3-vjezbe-zadaci/main/README.md"
+    },
+    {
+        "name": "Modul 4 - base",
+        "description": "Modul 4 - Razvoj web aplikacija u programskom jeziku Python",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m4-base ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m4-base/main/README.md"
+    },
+    {
+        "name": "Module 4 – exam",
+        "description": "Parcijalni ispit za modul 4 - Razvoj web aplikacija u programskom jeziku Python",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m4-parcijalni-ispit ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m4-parcijalni-ispit/main/README.md"
+    },
+    {
+        "name": "Module 4 – exercises",
+        "description": "Vježbe i zadaci modula 4 - Razvoj web aplikacija u programskom jeziku Python",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m4-vjezbe-zadaci ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m4-vjezbe-zadaci/main/README.md"
+    },
+    {
+        "name": "Modul 5 - base",
+        "description": "Modul 5 - Python u području Internet stvari",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m4-base ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m5-base/main/README.md"
+    },
+    {
+        "name": "Module 5 – exam",
+        "description": "Parcijalni ispit za modul 5 - Python u području Internet stvari ",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m4-parcijalni-ispit ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m5-parcijalni-ispit/main/README.md"
+    },
+    {
+        "name": "Module 5 – exercises",
+        "description": "Vježbe i zadaci modula 5 - Python u području Internet stvari ",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m4-vjezbe-zadaci ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m5-vjezbe-zadaci/main/README.md"
+    }
+]
