@@ -65,21 +65,21 @@
     {
         "name": "M5-base",
         "description": "Modul 5 - Python u području Internet stvari",
-        "gitUrl": "https://github.com/algebra-pydev/py-dev-m4-base ",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m5-base ",
         "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
         "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m5-base/main/README.md"
     },
     {
         "name": "M5–exam",
         "description": "Parcijalni ispit za modul 5 - Python u području Internet stvari ",
-        "gitUrl": "https://github.com/algebra-pydev/py-dev-m4-parcijalni-ispit ",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m5-parcijalni-ispit ",
         "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
         "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m5-parcijalni-ispit/main/README.md"
     },
     {
         "name": "M5–exercises",
         "description": "Vježbe i zadaci modula 5 - Python u području Internet stvari ",
-        "gitUrl": "https://github.com/algebra-pydev/py-dev-m4-vjezbe-zadaci ",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m5-vjezbe-zadaci ",
         "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
         "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m5-vjezbe-zadaci/main/README.md"
     }
