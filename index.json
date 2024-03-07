@@ -1,5 +1,12 @@
 [
     {
+        "name": "IoT",
+        "description": "Modul - Python u području Internet stvari",
+        "gitUrl": "https://github.com/algebra-pydev/py-dev-m5-base ",
+        "imageUrl": "https://raw.githubusercontent.com/daytonaio-templates/index/main/img/python.png",
+        "rawReadmeUrl": "https://raw.githubusercontent.com/algebra-pydev/py-dev-m5-base/main/README.md"
+    },
+    {
         "name": "M2-base",
         "description": "Modul2 -  Osnove programiranja u programskom jeziku Python",
         "gitUrl": "https://github.com/algebra-pydev/py-dev-m2-base ",
